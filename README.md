@@ -1,2 +1,2 @@
-# COP3503
-All my work for COP3503 - Programming Fundamentals 2
+# COP3530
+All my work for COP3530 - Data Structures and Algorithms
